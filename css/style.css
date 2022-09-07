@@ -90,3 +90,8 @@ button {
 .main .container .items .answers {
     display: none;
 }
+
+.main .container .items .style p {
+    font-size: clamp(1rem, 2vw, 1.125rem);
+    text-align: justify;
+}
